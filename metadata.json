@@ -1,0 +1,7 @@
+{
+  "name": "Project AURA: OS Empath",
+  "description": "A sophisticated behavior-based OS security system that learns baseline trust and detects anomalies across Kernel, User, and Network layers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
